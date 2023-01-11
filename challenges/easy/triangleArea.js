@@ -1,4 +1,4 @@
-const rectangleArea = require('./rectangleArea')
+let rectangleArea = require('./rectangleArea')
 
 /**
  * @param {number} a - the base
